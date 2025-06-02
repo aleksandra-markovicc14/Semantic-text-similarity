@@ -11,7 +11,7 @@ A variety of techniques were applied to this task:
 
 Model ensembling was performed using multiple pretrained models: 'all-MiniLM-L6-v2', 'all-mpnet-base-v2', 'all-roberta-large-v1', and 'msmarco-distilbert-base-v4' to improve robustness and accuracy
 
-Additional datasets such as the [STS Companion]([tasksource/sts-companion](https://huggingface.co/datasets/mteb/stsbenchmark-sts)) and [SNLI corpus](https://nlp.stanford.edu/projects/snli/snli_1.0.zip) were incorporated to enhance model performance.
+Additional datasets such as the [STS Companion](https://huggingface.co/datasets/mteb/stsbenchmark-sts) and [SNLI corpus](https://nlp.stanford.edu/projects/snli/snli_1.0.zip) were incorporated to enhance model performance.
 
 The workflow also included exploratory data analysis, similarity metric comparisons, and evaluation across model architectures
 
