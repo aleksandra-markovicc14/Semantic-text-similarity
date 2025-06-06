@@ -1,4 +1,4 @@
-# Semantic-text-similarity
+# Semantic-text-similarity analysis
 
 ## Overview
 This project focuses on predicting semantic similarity between pairs of sentences using the [STS Benchmark dataset](https://github.com/PhilipMay/stsb-multi-mt/tree/30de0dec4ee199b7f42351d3f1a0b19592955385/data). The dataset is composed of sentence pairs from domains such as news headlines, image captions, and user forums, each annotated with a similarity score ranging from 0 (no similarity) to 5 (identical meaning).
